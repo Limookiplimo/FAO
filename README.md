@@ -1,4 +1,4 @@
-#Trends in Food and Agricultural Productivity
+# Food and Agricultural Organization
 
 Data wrangling of food consumption and agricultural productivity datasets.
-The dataset has been extensively transformed in preparation for the EDA to follow.
+The dataset has been extensively transformed using python and pandas library.
